@@ -19,7 +19,7 @@
 	"homepage": "https://github.com/mattbesedick/TripPlanner#readme",
 	"devDependencies": {
 		"webpack": "^4.41.6",
-		"webpack-cli": "^3.3.11"
+		"webpack-cli": "^3.3.12"
 	},
 	"dependencies": {
 		"mapbox-gl": "^1.7.0"
